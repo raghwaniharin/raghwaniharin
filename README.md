@@ -16,10 +16,10 @@ Welcome to my GitHub! I'm an aspiring software developer with a love for Machine
       </ul>
 💬 Fun Facts
       <ul>
-    🎸 I solve rubik's Cubes in my free time .
-    📚 I’m a big fan of John Green.
-    🌎 I love traveling and hiking
-    🧩 I'm always up for a good puzzle or logical challenge!
+         <li> 🎸 I solve rubik's Cubes in my free time .</li>
+         <li> 📚 I’m a big fan of John Green.</li>
+         <li>🌎 I love traveling and hiking</li>
+         <li>🧩 I'm always up for a good puzzle or logical challenge!</li>
       </ul>
 
 
