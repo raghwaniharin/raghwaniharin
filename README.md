@@ -3,11 +3,11 @@ Hi there! 👋 I'm Harin Ramji
 Welcome to my GitHub! I'm an aspiring software developer with a love for Machines and solving unique and complex problems.
 
 🚀 About Me
-
-      💻 I’m currently working on a Mental health Mobile app for The University of Massey
+      <li>
+            <ul>💻 I’m currently working on a Mental health Mobile app for The University of Massey</ul>
       🌱 I’m learning: I am pursuing a degree in Applied Information Technology at WINTEC
       📫 How to reach me: Message me on LinkedIn: www.linkedin.com/in/harin-ramji
-
+      </li>
 🛠 Tech Stack
 
       Languages: SQL, HTML, CSS, C, C++, Java, C#
